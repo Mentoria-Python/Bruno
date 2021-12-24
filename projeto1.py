@@ -21,6 +21,6 @@ resultado_Bruno = Bruno / total * premio
 resultado_Erick = Erick / total * premio
 resultado_Cassiano = Cassiano / total * premio
 
-print('Resultado Bruno {}'.format((Bruno / total) * premio))
-print('Resultado Erick {}'.format((Erick / total) * premio))
-print('Resultado Cassiano {}'.format((Cassiano / total) * premio))
+print('Resultado Bruno {}'.format(resultado_Bruno))
+print('Resultado Erick {}'.format(resultado_Erick))
+print('Resultado Cassiano {}'.format(resultado_Cassiano))
